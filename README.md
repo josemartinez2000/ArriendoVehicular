@@ -5,3 +5,11 @@ Este proyecto es una plataforma distribuida, basada en una arquitectura de micro
 Integrantes: Mariano ELizalde.
             Jose Tomas Martinez.
             Nashky Mancilla.
+
+Requisitos previos.
+
+Antes de ejecutar el proyecto, asegúrate de tener instalado en tu entorno local:
+Java Development Kit (JDK) versión 17 o superior.
+Apache Maven (opcional, si utilizas el mvnw incluido).
+IDE de Desarrollo (IntelliJ IDEA, Eclipse o VS Code).
+Postman (o herramienta similar para probar los Endpoints).
